@@ -1,4 +1,4 @@
-# ElixirConf 2018 Summary 🐥 🔥
+# ElixirConf 2020 Summary 🐥 🔥
 
 A collection of links that cover what happened during ElixirConf 2020. Please
 feel free to submit a PR!
