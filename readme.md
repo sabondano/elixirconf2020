@@ -97,6 +97,7 @@ by [Speaker Name](link to speaker's github or twitter)
 - Elixir Outlaws: [https://elixiroutlaws.com/](https://elixiroutlaws.com/)
 - Elixir Talk: [https://itunes.apple.com/us/podcast/elixirtalk/id1298287048](https://itunes.apple.com/us/podcast/elixirtalk/id1298287048)
 - Elixir Mix: [https://devchat.tv/elixir-mix/](https://devchat.tv/elixir-mix/)
+- [Thinking Elixir](https://thinkingelixir.com/the-podcast/)
 
 ## Regional Conferences
 - Elixir Daze (St. Augustine/Denver): [http://www.elixirdaze.com/](http://www.elixirdaze.com/)
