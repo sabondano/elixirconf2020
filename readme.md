@@ -53,7 +53,7 @@ by [Alex Peachey](https://github.com/alexpeachey) and [Chris Hildebrand](https:/
 ### Keynote:  Jose Valim
 ### Keynote:  Jenn Gamble
 
-### Title Tal
+### Some talk title
 by [Speaker Name](link to speaker's github or twitter)
 
 - [some link description ](some url)
