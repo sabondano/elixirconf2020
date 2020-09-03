@@ -116,4 +116,5 @@ by [Speaker Name](link to speaker's github or twitter)
 ## Heard these companies are hiring
 
 - [Nav](https://www.nav.com/)
+- [ActiveProspect](https://activeprospect.applytojob.com/apply/bAyKv9tkZj/Senior-Software-Developer-Elixir-Remote-OK-To-Right-Candidate)
 
