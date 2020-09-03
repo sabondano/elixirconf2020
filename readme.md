@@ -68,6 +68,11 @@ by [Dorian Karter](https://github.com/dkarter/)
 
 - [King of Tokyo](https://github.com/dkarter/king_of_tokyo)
 
+### Orchestrating a Fleet of Edge Devices; How Elixir Releases and Clustering Lowers Complexity
+by [Austin Hammer](https://github.com/hammeraj)
+
+- [Savi](https://getsavi.com/)
+
 ### Some talk title
 by [Speaker Name](link to speaker's github or twitter)
 
