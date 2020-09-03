@@ -107,6 +107,9 @@ by [Speaker Name](link to speaker's github or twitter)
 ## Recommended Books
 - Some book name: [some description](some url)
 
+## Blog posts mentioned
+- [The danges of the Single Global Process](https://keathley.io/blog/sgp.html)
+
 # Video Courses
 - [ElixirCasts](https://elixircasts.io/)
 - [Elixir/OTP Pragmatic Studio Video Course](https://pragmaticstudio.com/courses/elixir)
