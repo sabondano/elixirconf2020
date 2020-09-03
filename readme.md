@@ -28,8 +28,8 @@ Table of Contents
 
 ## What's New
 
-- [Phoenix LiveView uploads]()
-- [Ash Framework]()
+- Phoenix LiveView uploads
+- [Ash Framework](https://github.com/ash-project/ash)
 
 ## ElixirConf Courses
 
