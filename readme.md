@@ -56,12 +56,17 @@ by [Alex Peachey](https://github.com/alexpeachey) and [Chris Hildebrand](https:/
 ### Keynote:  Jose Valim
 ### Keynote: Justin Schneck
 
-# gRPC + Elixir Microservices = A Love Story?
+### gRPC + Elixir Microservices = A Love Story?
 by [Catalina Astengo](https://twitter.com/catalinaastengo)
 
 - [gRPC](https://grpc.io/)
 - [protobuf](https://developers.google.com/protocol-buffers)
 - [Nav](https://www.nav.com/)
+
+### Building Multiplayer Games with LiveView
+by [Dorian Karter](https://github.com/dkarter/)
+
+- [King of Tokyo](https://github.com/dkarter/king_of_tokyo)
 
 ### Some talk title
 by [Speaker Name](link to speaker's github or twitter)
