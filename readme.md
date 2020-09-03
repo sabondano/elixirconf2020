@@ -54,6 +54,10 @@ by [Alex Peachey](https://github.com/alexpeachey) and [Chris Hildebrand](https:/
 - [Phoenix LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard)
 
 ### Keynote:  Jenn Gamble
+"Robust data pipelines for machine learning driven industrial IoT"
+
+- [Very](https://www.verypossible.com/)
+
 ### Keynote:  Jose Valim
 ### Keynote: Justin Schneck
 
