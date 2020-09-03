@@ -74,6 +74,11 @@ by [Austin Hammer](https://github.com/hammeraj)
 
 - [Savi](https://getsavi.com/)
 
+### Short Circuit IoT Development Time with Nerves
+by [Daniel Lindeman](https://github.com/DanLindeman)
+
+- [Very LLC](https://www.verypossible.com/)
+
 ### Some talk title
 by [Speaker Name](link to speaker's github or twitter)
 
