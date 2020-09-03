@@ -30,6 +30,7 @@ Table of Contents
 
 - Phoenix LiveView uploads
 - [Ash Framework](https://github.com/ash-project/ash)
+- [Ecto.Enum](https://hexdocs.pm/ecto/3.5.0-rc.0/Ecto.Enum.html)
 
 ## ElixirConf Courses
 
