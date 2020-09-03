@@ -47,11 +47,13 @@ by [Alex Peachey](https://github.com/alexpeachey) and [Chris Hildebrand](https:/
 ### Keynote: Chris McCord
 "Phoenix LiveView Uploads"
 
-- []()
+- [Phoenix Framework](https://www.phoenixframework.org/)
+- [Phoenix LiveView](https://github.com/phoenixframework/phoenix_live_view)
+- [Phoenix LiveDashboard](https://github.com/phoenixframework/phoenix_live_dashboard)
 
-### Keynote: Justin Schneck
-### Keynote:  Jose Valim
 ### Keynote:  Jenn Gamble
+### Keynote:  Jose Valim
+### Keynote: Justin Schneck
 
 ### Some talk title
 by [Speaker Name](link to speaker's github or twitter)
