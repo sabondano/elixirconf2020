@@ -28,6 +28,7 @@ Table of Contents
 
 ## What's New
 
+- [Phoenix LiveView uploads]()
 - [Ash Framework]()
 
 ## ElixirConf Courses
