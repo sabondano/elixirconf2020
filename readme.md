@@ -138,4 +138,5 @@ by [Speaker Name](link to speaker's github or twitter)
 
 - [Nav](https://www.nav.com/)
 - [ActiveProspect](https://activeprospect.applytojob.com/apply/bAyKv9tkZj/Senior-Software-Developer-Elixir-Remote-OK-To-Right-Candidate)
+- [Podium](https://www.podium.com/careers/)
 
