@@ -56,6 +56,13 @@ by [Alex Peachey](https://github.com/alexpeachey) and [Chris Hildebrand](https:/
 ### Keynote:  Jose Valim
 ### Keynote: Justin Schneck
 
+# gRPC + Elixir Microservices = A Love Story?
+by [Catalina Astengo](https://twitter.com/catalinaastengo)
+
+- [gRPC](https://grpc.io/)
+- [protobuf](https://developers.google.com/protocol-buffers)
+- [Nav](https://www.nav.com/)
+
 ### Some talk title
 by [Speaker Name](link to speaker's github or twitter)
 
