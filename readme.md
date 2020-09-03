@@ -115,5 +115,5 @@ by [Speaker Name](link to speaker's github or twitter)
 
 ## Heard these companies are hiring
 
-- [Some company](some link to comapny website or hiring page)
+- [Nav](https://www.nav.com/)
 
