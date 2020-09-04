@@ -85,6 +85,8 @@ by [Alex Peachey](https://github.com/alexpeachey) and [Chris Hildebrand](https:/
 ### Keynote: Justin Schneck
 "Hello World"
 
+- [Elixir Circuits](https://github.com/elixir-circuits)
+
 ### gRPC + Elixir Microservices = A Love Story?
 by [Catalina Astengo](https://twitter.com/catalinaastengo)
 
