@@ -122,6 +122,11 @@ by [Sophie DeBenedetto](https://github.com/SophieDeBenedetto)
 ### LiveView Components FTW!
 by [Feather Knee](https://github.com/featherart)
 
+### Introduction to the Ash Framework
+by [Zach Daniel](https://github.com/zachdaniel)
+
+- [Ash Framework](https://github.com/ash-project/ash)
+
 ### Some talk title
 by [Speaker Name](link to speaker's github or twitter)
 
