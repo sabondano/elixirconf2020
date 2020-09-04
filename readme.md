@@ -106,6 +106,11 @@ by [Daniel Lindeman](https://github.com/DanLindeman)
 
 - [Very LLC](https://www.verypossible.com/)
 
+### UintSet: enumerable, streamable, understandable
+by [Luciano Ramalho](https://github.com/ramalho/)
+
+- [The Go Programming Language book](https://www.gopl.io/)
+
 ### Some talk title
 by [Speaker Name](link to speaker's github or twitter)
 
