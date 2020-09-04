@@ -110,6 +110,7 @@ by [Daniel Lindeman](https://github.com/DanLindeman)
 by [Luciano Ramalho](https://github.com/ramalho/)
 
 - [The Go Programming Language book](https://www.gopl.io/)
+- [NaturalSet](https://github.com/standupdev/natural_set)
 
 ### Some talk title
 by [Speaker Name](link to speaker's github or twitter)
