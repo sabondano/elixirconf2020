@@ -112,6 +112,13 @@ by [Luciano Ramalho](https://github.com/ramalho/)
 - [The Go Programming Language book](https://www.gopl.io/)
 - [NaturalSet](https://github.com/standupdev/natural_set)
 
+### It's Alive! Instrumenting Phoenix 1.5 with Telemetry and LiveDashboard
+by [Sophie DeBenedetto](https://github.com/SophieDeBenedetto)
+
+- [Elixir School Telemetry blog post](https://elixirschool.com/blog/instrumenting-phoenix-with-telemetry-part-one/)
+- [Phoenix Telemetry Guide](https://hexdocs.pm/phoenix/telemetry.html)
+- [Telemetry Conventions blog post](https://keathley.io/blog/telemetry-conventions.html)
+
 ### Some talk title
 by [Speaker Name](link to speaker's github or twitter)
 
