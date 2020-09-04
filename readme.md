@@ -119,6 +119,9 @@ by [Sophie DeBenedetto](https://github.com/SophieDeBenedetto)
 - [Phoenix Telemetry Guide](https://hexdocs.pm/phoenix/telemetry.html)
 - [Telemetry Conventions blog post](https://keathley.io/blog/telemetry-conventions.html)
 
+### LiveView Components FTW!
+by [Feather Knee](https://github.com/featherart)
+
 ### Some talk title
 by [Speaker Name](link to speaker's github or twitter)
 
