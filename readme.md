@@ -28,6 +28,7 @@ Table of Contents
 
 ## What's New
 
+- Elixir v1.11
 - Phoenix LiveView uploads
 - [Ash Framework](https://github.com/ash-project/ash)
 - [Ecto.Enum](https://hexdocs.pm/ecto/3.5.0-rc.0/Ecto.Enum.html)
@@ -59,6 +60,28 @@ by [Alex Peachey](https://github.com/alexpeachey) and [Chris Hildebrand](https:/
 - [Very](https://www.verypossible.com/)
 
 ### Keynote:  Jose Valim
+"News from the Elixir Team"
+
+- Elixir V1.11
+    + Erlang Interoperability
+        - new log levels
+        - structured logging
+        - Erlang docs in IEx
+    + More compile-time checks
+        - binaries
+        - maps and structs
+        - application boundaries
+    + Compilation time improvements
+    + config/runtime.exs
+    + New APIs
+        - is_struct and is_exception guards
+        - map.field in guards
+        - Calendar.strftime
+        - Date.beginning _of_month, Date.end_of_week, etc
+        - mix test.coverage
+
+[Changelog v1.11](https://github.com/elixir-lang/elixir/blob/67cbd59d03755000bc7aca4e0f50a8232df1c317/CHANGELOG.md)
+
 ### Keynote: Justin Schneck
 
 ### gRPC + Elixir Microservices = A Love Story?
