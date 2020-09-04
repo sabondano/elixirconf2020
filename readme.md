@@ -83,6 +83,7 @@ by [Alex Peachey](https://github.com/alexpeachey) and [Chris Hildebrand](https:/
 [Changelog v1.11](https://github.com/elixir-lang/elixir/blob/67cbd59d03755000bc7aca4e0f50a8232df1c317/CHANGELOG.md)
 
 ### Keynote: Justin Schneck
+"Hello World"
 
 ### gRPC + Elixir Microservices = A Love Story?
 by [Catalina Astengo](https://twitter.com/catalinaastengo)
